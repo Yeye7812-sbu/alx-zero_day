@@ -1,1 +1,1 @@
-git rm --cached
+define a rule to never push ~ files
